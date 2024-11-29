@@ -1,0 +1,168 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #f3efe4;
+}
+
+nav {
+    background-color: rgb(230, 213, 191);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 0 20px;
+}
+
+nav .logo h1 {
+    font-size: 1.5rem;
+}
+
+nav .nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+nav .nav-links li {
+    display: flex;
+    gap: 20px;
+    font-size: 1rem;
+    ;
+
+}
+
+nav .nav-links a:hover {
+    color: #000000;
+}
+
+
+section {
+    padding: 10px 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+.sobre {
+    background-color: #000000;
+    text-align: center;
+}
+
+.sobre p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+header h1 {
+    margin-left: 54px;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+header {
+    background-color: #704529;
+    color: white;
+    padding: 1rem 0;
+}
+
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header .container {
+    margin-left: 45%;
+}
+
+.flex .container img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: rgba(255, 248, 248, 0.932) 6px solid;
+
+}
+
+img {
+    width: 2%;
+    height: 2;
+}
+
+style {
+    line-height: 1.6em;
+}
+
+img {
+    width: 7;
+    height: 7;
+
+}
+
+header {
+    margin-right: 700px;
+}
+
+header img {
+    margin-top: 50px;
+}
+
+
+
+section h4 {
+    margin-left: 54px;
+    color: #704529b4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    margin-bottom: 5px;
+}
+
+
+section {
+    margin-left: 54px;
+    margin-right: 54px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section p {
+    margin-left: 54px;
+    margin-right: 54px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section .obj {
+    margin-left: 54px;
+    margin-right: 54px;
+}
+
+footer {
+    color: #000000;
+    background-color: #bba589;
+
+}
+
+a {
+    text-decoration: none;
+    color: #704529;
+}
+
+a:hover{
+    color: #271f1a;
+}
+
+h2 {
+    color: antiquewhite;
+}
+
+
